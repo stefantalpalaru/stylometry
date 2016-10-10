@@ -1,0 +1,1081 @@
+Elena Ferrante - 2006 - La figlia oscura.txt /mnt/red/storage/stylometry/Elena Ferrante - 2006 - La figlia oscura.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.04565460680881417
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.04982567043106578
+3. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.0636396072349521
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.06436872914260461
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.06595859111464986
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.07691588573802499
+7. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.0786454604374004
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.08250778105654843
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.08584137041389173
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.099626459483383
+11. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.09997967558991683
+12. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.10417918419489702
+13. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.12008809974655432
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.1277099462077237
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.1334533949546589
+16. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.13459922888367737
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.14207842603128562
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.14951502845752274
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.18834918511161436
+20. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.20409905723556976
+21. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.26426904172004007
+
+
+Elena Ferrante - 2006 - La figlia oscura.txt /mnt/red/storage/stylometry/Elena Ferrante - 2006 - La figlia oscura.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.6769360130864377
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.6867817297590181
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.6960876322351524
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6974517104412454
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.7083480456171145
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7259657463529581
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7421238652750768
+8. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7428114651040181
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.744922812041703
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.7505041423849255
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.7535866174230152
+12. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7570211409104755
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7599158726759601
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.7680867979175258
+15. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.77123735450557
+16. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.7744711238633355
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7748625608224875
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.7912071857733594
+19. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8022194066138593
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.8285071654282097
+21. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.8322091635630601
+
+
+Elena Ferrante - 2006 - La figlia oscura.txt /mnt/red/storage/stylometry/Elena Ferrante - 2006 - La figlia oscura.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.31714506332224024
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.38243548889785683
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.3845799497958442
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.3854952826217237
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.4176500363299519
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.4207514356749167
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.4434560803072234
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.4576428641468323
+9. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.4839034337435628
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.4842601186256118
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.48764200210558395
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.49637436270453694
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.5343949941181231
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.5693169285420348
+15. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.5701150233548693
+16. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.585485971526392
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.5989879503054651
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.6136313215355378
+19. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.6343706709650987
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.6448821814334886
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.6762329936754341
+
+
+Elena Ferrante - 2006 - La figlia oscura.txt /mnt/red/storage/stylometry/Elena Ferrante - 2006 - La figlia oscura.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.9187893147540214
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.9239448158354456
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.9247126434925056
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.940472371782053
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.942603450283372
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9533208126494213
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.9559323505815606
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9575798717873205
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9596614539946291
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9599371851591025
+11. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9616301824064971
+12. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9621479324630031
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.962401237364672
+14. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9628489813875741
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9660406786789566
+16. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.974810592862386
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9748823850090094
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9786320887484482
+19. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.9813355078167585
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9827369969139349
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9843311073815294
+
+
+Elena Ferrante - 2006 - La figlia oscura.txt /mnt/red/storage/stylometry/Elena Ferrante - 2006 - La figlia oscura.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.0010896945596512442
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.0013224229797006437
+3. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.002158052434503621
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.0025613740239698313
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.0026959603591946157
+6. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.003079704487078061
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.003252885765745117
+8. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.005615241582056618
+9. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.006647852440494151
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.16332368518060836
+11. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.5143151614367774
+12. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.5335571029526438
+13. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.5507358260516022
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.5770467387906164
+15. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.6442681207777834
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.712481615665713
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.7334455091410941
+18. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.746444633325666
+19. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.8373250022992547
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9213408630719364
+21. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9949251459955408
+
+
+Elena Ferrante - I Giorni Dell'abbandono.txt /mnt/red/storage/stylometry/Elena Ferrante - I Giorni Dell'abbandono.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.036535644953888946
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.04117092883354401
+3. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.054309248113849296
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.05610795012331915
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.05676610125934145
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.06590164463359849
+7. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.06764926865774268
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.07500763040756653
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.07615402470801802
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.0936477424070351
+11. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.0974053372928193
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.09810249464525933
+13. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.11463441697169563
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.1185752635132461
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.12991170770216476
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.13495355883371407
+17. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.13806835322118793
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.1422210271578972
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.18439808570142469
+20. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.20194029996494245
+21. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.2639931573834008
+
+
+Elena Ferrante - I Giorni Dell'abbandono.txt /mnt/red/storage/stylometry/Elena Ferrante - I Giorni Dell'abbandono.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6420028482368797
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.6628129888373805
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.6725881721944538
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.6761359985260917
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.6973369814585868
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.7108019459487822
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7190130190338593
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.727305022661755
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7289371388751358
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.7389210035924683
+11. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7432659136922061
+12. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7469215438591766
+13. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7481055169281332
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.7659800822032197
+15. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.7786070715320463
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.788344527960535
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.7918880500802876
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8026138490554298
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.8056015380492392
+20. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.8203001596891268
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8346484826949208
+
+
+Elena Ferrante - I Giorni Dell'abbandono.txt /mnt/red/storage/stylometry/Elena Ferrante - I Giorni Dell'abbandono.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.27840148007503096
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.3371146810390869
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.35395782373195384
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.36208963554158424
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.38646333902155205
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.39552959624188433
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.41225103017301445
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.4428850324403678
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.4485265864546135
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.47066093076441695
+11. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.47360240283879007
+12. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.48504667678062474
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.5068961107165093
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.5214608697596521
+15. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.5652048023651097
+16. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.5709164718806694
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.578188710802365
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.6098382145923336
+19. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.6169958068052758
+20. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.6291891226440803
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.678400133873564
+
+
+Elena Ferrante - I Giorni Dell'abbandono.txt /mnt/red/storage/stylometry/Elena Ferrante - I Giorni Dell'abbandono.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.9039908102874598
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.9109112445738767
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.9135277290633482
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9242518909400734
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.9269407682893211
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9459053626624865
+7. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9499631771378391
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.9501784843766976
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9505118855470162
+10. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9519243952992903
+11. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9554103625209159
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.956361844008546
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9572022872264364
+14. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9597828057066831
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9654546184783744
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9688839394168111
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9722981730337794
+18. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9735699405654654
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.974630683643705
+20. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.9774967653982501
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9831032549819974
+
+
+Elena Ferrante - I Giorni Dell'abbandono.txt /mnt/red/storage/stylometry/Elena Ferrante - I Giorni Dell'abbandono.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.004178057535290103
+2. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.006907021635979227
+3. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.011212590252033694
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.0439755455161972
+5. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.05738481574518106
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.059222901910257475
+7. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.0678995296776872
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.08939454536974734
+9. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.25708406124828753
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.4833987714532042
+11. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.49378941929716413
+12. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.49481505256510605
+13. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.497962934597753
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.49829325941737945
+15. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.49856335085120085
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.4989013591974052
+17. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.49980344242041874
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.5381361516296855
+19. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.6000624306558131
+20. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.723301797723019
+21. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.8005875101521676
+
+
+Elena Ferrante - L'amore molesto.txt /mnt/red/storage/stylometry/Elena Ferrante - L'amore molesto.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.04014962367144648
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.05881894149105327
+3. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.06556647260777992
+4. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.06759529871601055
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.06797700589472233
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.07035153648630688
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.08584104595841513
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.09997571077874778
+9. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.1066794115888986
+10. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.11748101154412394
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.11905818515359956
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.12829953958473084
+13. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.14082259612981696
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.1498533048203866
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.15346318011947846
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.16784974614332093
+17. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.16974858130025194
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.1799366226627368
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.21294413649216104
+20. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.2415756685576984
+21. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.29656084701746743
+
+
+Elena Ferrante - L'amore molesto.txt /mnt/red/storage/stylometry/Elena Ferrante - L'amore molesto.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.6578073157383838
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.6775865979826936
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6917898528941204
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.698266484630714
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7286233975415832
+6. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7330205052169916
+7. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.7341543419310829
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.7375256364076167
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7433738268803042
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7441726127533612
+11. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7504278491870136
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.7543783951821965
+13. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7560788172559253
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.7635371277117737
+15. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.7789511692049761
+16. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.7863584619944217
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.7894489024698983
+18. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7952151036849062
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.8239902653370905
+20. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8246790032983813
+21. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.8266191789179604
+
+
+Elena Ferrante - L'amore molesto.txt /mnt/red/storage/stylometry/Elena Ferrante - L'amore molesto.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.3158381443920033
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.32154726047050686
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.367343557714103
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.36942961934754426
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.3829522831748805
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.42904710888624564
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.4521723802535397
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.4748753699506215
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.48739935163677883
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.49682891186485056
+11. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.49873100664487613
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.5142952444744027
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.517181916702294
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.5529027448630304
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.5581302347880513
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.5866224441932877
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.5966001070853549
+18. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.6047567166176047
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.6082420973354388
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.6378427933996562
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.6882659860965961
+
+
+Elena Ferrante - L'amore molesto.txt /mnt/red/storage/stylometry/Elena Ferrante - L'amore molesto.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.8930245159705227
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.914282627691767
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.9237497636146457
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9239714930506715
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.9303418867239457
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9499044324972502
+7. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9530054799267552
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.9557297137005616
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9558863213750661
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9559301965033136
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9596306839809297
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9599619518955781
+13. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9607744109891669
+14. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9612180688740868
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9624574891919714
+16. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9730378108886599
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9749233887519101
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9755931650644903
+19. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9762667994766054
+20. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.9792519187904177
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9839961341623926
+
+
+Elena Ferrante - L'amore molesto.txt /mnt/red/storage/stylometry/Elena Ferrante - L'amore molesto.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.0011283221381418462
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.0013313562413524993
+3. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.0020034151021093294
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.0021355897340126218
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.002900911617693458
+6. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.0033009894955094987
+7. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.0038737180569750063
+8. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.0051908474603258314
+9. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.006384634217535767
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.03496049369040599
+11. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.038907509799082196
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.33136078552452375
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.4234600326902298
+14. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.4377258027624972
+15. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.4515779606249646
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.6450052132854447
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.6735725543637572
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7125532227342823
+19. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7453249389352481
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9212557183905086
+21. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9950561371549007
+
+
+Ferrante Elena - Storia di chi fugge e di chi resta.txt /mnt/red/storage/stylometry/Ferrante Elena - Storia di chi fugge e di chi resta.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.020605790459463758
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.02215205201570869
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.02650448020187335
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.029809416253861687
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.03700875655707292
+6. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.043239953917546536
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.043903983787043854
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.04718825786525038
+9. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.0500115210507428
+10. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.055692626809151324
+11. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.05647512475217076
+12. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.0568852819786716
+13. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.058774485377482755
+14. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.06612771637176085
+15. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.07385858863814176
+16. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.07500053923955885
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.10572307777417156
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.1219192298366022
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.13354585796064156
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.13832901298802935
+21. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.19029113990476543
+
+
+Ferrante Elena - Storia di chi fugge e di chi resta.txt /mnt/red/storage/stylometry/Ferrante Elena - Storia di chi fugge e di chi resta.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.6467896770644378
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.6693303615304879
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6701377777165021
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.7252274020971231
+5. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7276492556247758
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.7331619417359869
+7. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7431852768753846
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.7432459727009482
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7484498715256224
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.7490484666888013
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7525243689316186
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.76190420276951
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7693933575088512
+14. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7839644785972727
+15. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.7867451779876853
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7951720414567913
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.80588649312373
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.8091282458311796
+19. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.8108789840677217
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8500441550577231
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8744379261316821
+
+
+Ferrante Elena - Storia di chi fugge e di chi resta.txt /mnt/red/storage/stylometry/Ferrante Elena - Storia di chi fugge e di chi resta.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.24020304453965435
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.2525750279712051
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.31386710472347135
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.33934923734232225
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.345060398308878
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.356144005501984
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.36030212647452586
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.3620431377204837
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.36220894923205027
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.36976866440147316
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.3928271082633229
+12. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.4358143865157842
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.4444184405851853
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.45395714949993204
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.48169863570358207
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.48973295989887433
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.4977277553390733
+18. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.5063952051099301
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.541605427715182
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.5730309565946548
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.6006476604675237
+
+
+Ferrante Elena - Storia di chi fugge e di chi resta.txt /mnt/red/storage/stylometry/Ferrante Elena - Storia di chi fugge e di chi resta.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.8537283850282872
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.877103926645367
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.8860368811208336
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.9048468442090293
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9160907953657483
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9167820794517192
+7. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9185413122592888
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.9214030946408952
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9275520964977357
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9277635907383647
+11. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.929811842885213
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9337948365924789
+13. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9354977259708019
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9364763772122086
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9450723685923783
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9523048965811034
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9540006973681435
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9574980721921998
+19. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.9615729143652035
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9647452534007359
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9659454389431936
+
+
+Ferrante Elena - Storia di chi fugge e di chi resta.txt /mnt/red/storage/stylometry/Ferrante Elena - Storia di chi fugge e di chi resta.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.05074818150041738
+2. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.07377983065918103
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.17284534492274428
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.23786571801719114
+5. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.25441130663263545
+6. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.31373296649441595
+7. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.37311168390567895
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.3775462400096846
+9. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.394332404896633
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.4372115237931993
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.46264220866975947
+12. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.504089530296129
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.7544165411138288
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.7567095433895483
+15. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 1.1835097726315835
+16. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 1.185261097529962
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 1.6335838640158302
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 1.7205578285048282
+19. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 1.7716288298124563
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 1.9979935722875846
+21. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 2.091283795029518
+
+
+Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt /mnt/red/storage/stylometry/Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.02784453511474727
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.028388391614284636
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.034135952302217554
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.03754463196369073
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.03784765261093315
+6. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.0467069336472955
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.04773234123817527
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.05309190216233983
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.05739782405091465
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.05830725198884501
+11. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.061426825061498325
+12. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.06586539346569131
+13. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.06622617860093716
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.06669606663277494
+15. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.07051117482296865
+16. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.09088892921660896
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.10337784862304866
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.10707246421634486
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.12138977910932958
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.12439915827518655
+21. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.16781735150897137
+
+
+Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt /mnt/red/storage/stylometry/Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.6771341877996476
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.6771790077753288
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6773062112561385
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.7147896325487016
+5. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7238139001132969
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.7238298642468619
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.7282529410802352
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.7298375018244188
+9. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7358718056106657
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7426738618847399
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7489878218299892
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7563486109676194
+13. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7699800417532289
+14. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7788448180097014
+15. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.7789848762130607
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.7794974435411397
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.7969328829357742
+18. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.8059651549197844
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.8079754168351493
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8293087287098719
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8626342137522414
+
+
+Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt /mnt/red/storage/stylometry/Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.2751658457254912
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.29783912124691236
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.3142578981185463
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.3727794084433699
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.37323859044170193
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.37655576518557454
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.3919231780028265
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.3947728992288777
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.40210825920266835
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.4132621772872428
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.433229414305248
+12. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.4513730719690633
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.4606960370279721
+14. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.4889875477909241
+15. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.49111858551488263
+16. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.49681917883840854
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.5220346281446526
+18. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.5242289199175474
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.5492330470743414
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.5789151095807616
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.6212703708124786
+
+
+Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt /mnt/red/storage/stylometry/Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.859008440324181
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.8719214323949587
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.8939518932146391
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.9118754129135371
+5. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9170021254945335
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9190517097298933
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.92559318467764
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9259728940967891
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9315240110198121
+10. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9318884259280686
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9345074110270666
+12. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9354101797065967
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9406575634649242
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9407792411994769
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9441008122022294
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9573415929938851
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9576489384585505
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9602432307829618
+19. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.964096494421163
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9642386059795278
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9681892402681769
+
+
+Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt /mnt/red/storage/stylometry/Ferrante, Elena - [L'amica geniale 1] - L'amica geniale (2011, E - O, 9788866320326,8866320323).txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.009459029836201394
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.015385688971846667
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.054029199191041544
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.08017243688164588
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.12398294021779899
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.3152864295473723
+7. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.320155542552763
+8. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.3287402875049762
+9. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.3326568349203374
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.35789012208342696
+11. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.46390750725053087
+12. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7558325613523692
+13. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8390067744625433
+14. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8410062456831497
+15. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.8412597141845246
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 1.016350584741918
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 1.0768231676729072
+18. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 1.110508705194929
+19. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 1.2720598249814334
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 1.337495587893173
+21. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 2.1260773972817066
+
+
+La Frantumaglia - Elena Ferrante.txt /mnt/red/storage/stylometry/La Frantumaglia - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.02646360645413548
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.027580226899899585
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.03312311649035826
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.04230523496171612
+5. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.04320223952870994
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.049449094985908104
+7. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.05050084414546163
+8. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.05307398665448748
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.053402115521365534
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.05676921134782453
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.057736587505486936
+12. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.06991506059653196
+13. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.07140186477893862
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.07499835867045046
+15. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.07674852497010476
+16. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.08674370000920717
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.1038821167674776
+18. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.11006387025595088
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.1111411827586114
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.12322353659145313
+21. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.16658183538763538
+
+
+La Frantumaglia - Elena Ferrante.txt /mnt/red/storage/stylometry/La Frantumaglia - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.704518841538051
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.7156230834182252
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.7157690767795046
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7183481760692174
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.720809850339887
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7352665382784617
+7. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7398476961851652
+8. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.7455405645470893
+9. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.7482369979573923
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.7588624895020422
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7589885839323032
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.7597764844221611
+13. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.7611403811826064
+14. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7633138081857543
+15. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7696292327580148
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7793635599927352
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.7808664376741403
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.7910357102677902
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8104882898325056
+20. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.8262398241318806
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8314150429041182
+
+
+La Frantumaglia - Elena Ferrante.txt /mnt/red/storage/stylometry/La Frantumaglia - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.3074092155245367
+2. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.3091426957172222
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.35771460518637965
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.37815868276029685
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.3807162601256713
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.4010021791566005
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.4295290084452005
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.430162339431283
+9. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.4350375308790999
+10. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.4597281358705603
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.46216738349835207
+12. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.4727210805068879
+13. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.4731918997561272
+14. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.48862578785354194
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.49736850707010993
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.5102418779904371
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.5346083892321754
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.5507933945482736
+19. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.5737514645242425
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.597710611526603
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.619766317075142
+
+
+La Frantumaglia - Elena Ferrante.txt /mnt/red/storage/stylometry/La Frantumaglia - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.9012621039569774
+2. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.9095744265815096
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.9214893191940765
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.9293463602233141
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.945106523983453
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9483827356824432
+7. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9486763729971163
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9489870674958157
+9. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9502517895010265
+10. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9515412365814939
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9520282956758067
+12. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.954746124433568
+13. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9554552800122526
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.9602218588039876
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9630107427648475
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.9638305175527031
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9663714799175999
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9704462715644859
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9718740814151469
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9719234678966377
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.976801270166281
+
+
+La Frantumaglia - Elena Ferrante.txt /mnt/red/storage/stylometry/La Frantumaglia - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.008225627693539295
+2. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.01129736238103729
+3. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.05173354881370695
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.06892203474558523
+5. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.07725390473074722
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.13287750091082184
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.156399341089009
+8. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.29644403880842995
+9. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.2965459689025418
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.29727900326224943
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.29763503162316884
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.3867051967903291
+13. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.47173983769733774
+14. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.5016902271985818
+15. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.5177471004063003
+16. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.5429586498890843
+17. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.5915628646421363
+18. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.610564346457326
+19. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.6194841743932342
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.6992851544535041
+21. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.7328404897223011
+
+
+Storia del nuovo cognome - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia del nuovo cognome - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.023866503398921157
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.025675569530830722
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.031606622827497266
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.03161079547612067
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.038060019295730996
+6. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.04420173669731464
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.04962420144560353
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.05026683092377393
+9. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.05147589249903084
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.05829593886306361
+11. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.05868861066776332
+12. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.05878088633219547
+13. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.062103881061173705
+14. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.06403460549941742
+15. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.07171410495404862
+16. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.0763497564752933
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.1057251353527664
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.1209502579464149
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.13322917017850167
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.13746605609095097
+21. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.18794938963960728
+
+
+Storia del nuovo cognome - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia del nuovo cognome - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.6482897017586169
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.6654884957255106
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6864082705690293
+4. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.732715829813448
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.7433837361303645
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.7460239082119515
+7. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7494366618683306
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.7501553162043335
+9. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.7537048708215042
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7649405947939791
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.7667973561173911
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.7706999692568637
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7786279793650593
+14. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.7834509028362028
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7937962564164034
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7968894212620088
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.8118534422892775
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.8222922590051792
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.823644050454203
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8604689957717436
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8788556756813576
+
+
+Storia del nuovo cognome - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia del nuovo cognome - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.24202678899038177
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.2647280686583654
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.30610777504645126
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.3438751183188401
+5. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.34680924839259764
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.360153977627408
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.3626724934358486
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.36395201851115666
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.37253207964396107
+10. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.3852480226702397
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.4001011560744264
+12. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.42953990370232187
+13. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.4354387279244013
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.46339167655283686
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.4673530920570118
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.4840422432201532
+17. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.49282786344526763
+18. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.49829686298429277
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.5303343916215391
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.5662145330844317
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.601496228635976
+
+
+Storia del nuovo cognome - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia del nuovo cognome - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.8327786577523646
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.8605204721434195
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.8767155664218022
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.8956650390843177
+5. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9045873960979459
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.9080345687317314
+7. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.9114068540118625
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.9127238489550571
+9. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9198861787923268
+10. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9210111019683217
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9231840491485452
+12. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.9247172087053237
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9288767966281425
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9318352556898808
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9387747069305801
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.9484734269663518
+17. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.950955747415135
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9536608204141956
+19. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.9569833437029799
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9592089581018809
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9607091868510671
+
+
+Storia del nuovo cognome - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia del nuovo cognome - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 3.307796202616231E-4
+2. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.02548558122477451
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.04180945863326413
+4. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.14376242238560288
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.19761717754407382
+6. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.21631276783108644
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.22091350575368873
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.2585240187757817
+9. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.3865504411432015
+10. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.4034374280536155
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.4385543643826766
+12. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.44163301903350094
+13. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.45936736945304824
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.4931930363315662
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.5047848342740231
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.8439307629202526
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.8676432895049151
+18. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.9094177212150131
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 1.0218598211585377
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 1.0423643034613455
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 1.0443765063341512
+
+
+Storia della bambina perduta - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia della bambina perduta - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Character NGrams n : 4 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.022981337250335465
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.02455082848314727
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.02746376418113472
+4. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.03202562117971297
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.03495696507785784
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.04343649429405605
+7. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.04538318782205508
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.04847871218223809
+9. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.0531509335705016
+10. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.055927983895226574
+11. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.05908131013059292
+12. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.06295828461947406
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.06484057462041526
+14. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.06600469762143701
+15. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.06651475399537621
+16. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.08434343927883603
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.1063117776685163
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.11076426481915613
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.12346556996621161
+20. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.12651016818640837
+21. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.17654682619049755
+
+
+Storia della bambina perduta - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia della bambina perduta - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Rare Words n : 5, m : 1 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.6477341549546525
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.668807365124549
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.6807065066181487
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.7268667225402852
+5. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.7314193793656072
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.739143820342416
+7. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.7491193442361535
+8. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.750934232668452
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.75361274128907
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.755623606165917
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.7596346318357858
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.7619201521141649
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7733962729569135
+14. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.7799371573274534
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.7891062912403247
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.7944851348241269
+17. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.8071712539393815
+18. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.8125701009515207
+19. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.8245259162107486
+20. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.8545563020463014
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.8669008887200749
+
+
+Storia della bambina perduta - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia della bambina perduta - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 2 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.2548294430813911
+2. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.2570873053502901
+3. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.3179183428973609
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.3298766931724758
+5. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.34578412816854276
+6. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.3506622175512244
+7. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.354575467566533
+8. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.3641801494691518
+9. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.36548046919553556
+10. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.3676742505673305
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.3813222142676578
+12. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.43137123254306264
+13. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.4396592550290763
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.45022256904804736
+15. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.47163737597828814
+16. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.48423010242129383
+17. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.4989586870515428
+18. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.5026989738788924
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.5434163945736736
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.5712244447217576
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.6156180073972692
+
+
+Storia della bambina perduta - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia della bambina perduta - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Word NGrams n : 3 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.8382129705544462
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.8640087281145415
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.8757747969546649
+4. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.8920322393772093
+5. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.90524265476138
+6. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.9099497963615241
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.911716677743898
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.9155867616343097
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.9175518675870977
+10. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.9220349080136425
+11. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.9235339513704762
+12. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.9262962659948012
+13. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.929166012281208
+14. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.9319555197467727
+15. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.9401081531385581
+16. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.9478013183554147
+17. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.950401455085163
+18. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.9526798161298938
+19. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.957449264811311
+20. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.9610373693247394
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.9650342671381864
+
+
+Storia della bambina perduta - Elena Ferrante.txt /mnt/red/storage/stylometry/Storia della bambina perduta - Elena Ferrante.txt
+Canonicizers: Normalize Whitespace 
+EventDriver: Characters 
+Analysis: Nearest Neighbor Driver with metric Cosine Distance 
+1. Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) -/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt 0.0078079479318461376
+2. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt 0.019916771710729364
+3. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt 0.1910031193791566
+4. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt 0.20572702304614543
+5. Domenico Starnone -/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt 0.2204767777803227
+6. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt 0.25065560490112726
+7. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt 0.26920775207061
+8. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt 0.29898943306880166
+9. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt 0.32797992536990794
+10. Antonio Pennacchi -/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt 0.3405741346506138
+11. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt 0.4251887032531586
+12. Franz Kafka (trad. Clara Morena) -/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt 0.5244662847149071
+13. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt 0.5656989580563416
+14. Christa Wolf (trad. Maria Teresa Mandalari) -/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt 0.5803038724732819
+15. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt 0.5987747217730934
+16. Lucio Mastronardi -/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt 0.6179391139547636
+17. Domenico Starnone -/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt 0.7134182807179987
+18. Christa Wolf (trad. Anita Raja) -/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt 0.7515507246275626
+19. Franz Kafka (trad. Anita Raja) -/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt 0.7809727794373436
+20. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt 0.7826231016916221
+21. Domenico Starnone -/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt 0.9423434472015481
+
+
+

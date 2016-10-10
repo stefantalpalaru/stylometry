@@ -1,0 +1,29 @@
+tested | Character NGrams n : 4 | Rare Words n : 5, m : 1 | Word NGrams n : 2 | Word NGrams n : 3 | Characters
+:--|:--|:--|:--|:--|:--
+
+Elena Ferrante - La figlia oscura | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Labilità | Domenico Starnone - Labilità | Domenico Starnone - Prima Esecuzione
+
+Elena Ferrante - I Giorni Dell'abbandono | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Labilità | Domenico Starnone - Labilità | Domenico Starnone - Labilità | Christa Wolf (trad. Anita Raja) - Sotto i tigli
+
+Elena Ferrante - L'amore molesto | Domenico Starnone - Via Gemito | Domenico Starnone - Eccesso di zelo | Domenico Starnone - Via Gemito | Domenico Starnone - Via Gemito | Domenico Starnone - Eccesso di zelo
+
+Elena Ferrante - Storia di chi fugge e di chi resta | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Antonio Pennacchi - Canale Mussolini
+
+Elena Ferrante - L'amica geniale | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Fuori registro
+
+Elena Ferrante - La Frantumaglia | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Domenico Starnone - Lacci | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Christa Wolf (trad. Maria Teresa Mandalari) - Il cielo diviso
+
+Elena Ferrante - Storia del nuovo cognome | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Denti
+
+Elena Ferrante - Storia della bambina perduta | Domenico Starnone - Labilità | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka) - Nessun luogo Da nessuna parte
+
+
+Elena Ferrante - La figlia oscura                   | DS | DS | DS | DS | DS
+Elena Ferrante - I Giorni Dell'abbandono            | DS | DS | DS | DS | AR
+Elena Ferrante - L'amore molesto                    | DS | DS | DS | DS | DS
+Elena Ferrante - Storia di chi fugge e di chi resta | DS | DS | DS | DS | AP
+Elena Ferrante - L'amica geniale                    | DS | DS | DS | DS | DS
+Elena Ferrante - La Frantumaglia                    | AR | DS | DS | DS | MTM
+Elena Ferrante - Storia del nuovo cognome           | DS | DS | DS | DS | DS
+Elena Ferrante - Storia della bambina perduta       | DS | DS | DS | DS | MCC-JMS
+

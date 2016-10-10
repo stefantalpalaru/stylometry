@@ -1,0 +1,35 @@
+tested | Character NGrams n : 4 | Rare Words n : 5, m : 1 | Word NGrams n : 2 | Word NGrams n : 3 | Characters
+:--|:--|:--|:--|:--|:--
+
+Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Labilità | Domenico Starnone - Via Gemito | Domenico Starnone - Labilità | Domenico Starnone - Via Gemito | Christa Wolf (trad. Anita Raja) - Che Cosa Resta
+
+Domenico Starnone - Condom | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Christa Wolf (trad. Anita Raja) - Che Cosa Resta | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Lacci
+
+Domenico Starnone - Labilità | Domenico Starnone - Denti | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Eccesso di zelo | Domenico Starnone - Via Gemito | Domenico Starnone - Eccesso di zelo
+
+Domenico Starnone - Lacci | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Condom
+
+Domenico Starnone - Fuori registro | Christa Wolf (trad. Anita Raja) - Sotto i tigli | Domenico Starnone - Ex cattedra | Domenico Starnone - Labilità | Domenico Starnone - Via Gemito | Domenico Starnone - Prima Esecuzione
+
+Domenico Starnone - Prima Esecuzione | Domenico Starnone - Via Gemito | Domenico Starnone - Labilità | Domenico Starnone - Labilità | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Eccesso di zelo
+
+Domenico Starnone - Eccesso di zelo | Domenico Starnone - Labilità | Domenico Starnone - Denti | Domenico Starnone - Labilità | Domenico Starnone - Labilità | Domenico Starnone - Prima Esecuzione
+
+Domenico Starnone - Denti | Domenico Starnone - Labilità | Domenico Starnone - Eccesso di zelo | Domenico Starnone - Labilità | Domenico Starnone - Via Gemito | Christa Wolf (trad. Anita Raja) - Medea
+
+Domenico Starnone - Ex cattedra | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Fuori registro | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Domenico Starnone - Via Gemito | Domenico Starnone - Prima Esecuzione
+
+Domenico Starnone - Via Gemito | Domenico Starnone - Prima Esecuzione | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Antonio Pennacchi - Canale Mussolini
+
+
+Domenico Starnone - Autobiografia erotica di Aristide Gambia | DS | DS | DS | DS | AR
+Domenico Starnone - Condom                                   | DS | AR | DS | DS | DS
+Domenico Starnone - Labilità                                 | DS | DS | DS | DS | DS
+Domenico Starnone - Lacci                                    | DS | DS | DS | DS | DS
+Domenico Starnone - Fuori registro                           | AR | DS | DS | DS | DS
+Domenico Starnone - Prima Esecuzione                         | DS | DS | DS | DS | DS
+Domenico Starnone - Eccesso di zelo                          | DS | DS | DS | DS | DS
+Domenico Starnone - Denti                                    | DS | DS | DS | DS | AR
+Domenico Starnone - Ex cattedra                              | DS | DS | AR | DS | DS
+Domenico Starnone - Via Gemito                               | DS | DS | DS | DS | AP
+

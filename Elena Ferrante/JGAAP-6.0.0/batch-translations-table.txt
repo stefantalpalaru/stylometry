@@ -1,0 +1,23 @@
+tested | Character NGrams n : 4 | Rare Words n : 5, m : 1 | Word NGrams n : 2 | Word NGrams n : 3 | Characters
+:--|:--|:--|:--|:--|:--
+
+Christa Wolf (trad. Anita Raja) - Cassandra | Christa Wolf (trad. Anita Raja) - Medea | Christa Wolf (trad. Anita Raja) - Medea | Christa Wolf (trad. Anita Raja) - Medea | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Lucio Mastronardi - Il maestro di Vigevano
+
+Christa Wolf (trad. Anita Raja) - Che Cosa Resta | Domenico Starnone - Labilità | Christa Wolf (trad. Anita Raja) - Sotto i tigli | Christa Wolf (trad. Anita Raja) - Sotto i tigli | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Domenico Starnone - Prima Esecuzione
+
+Christa Wolf (trad. Anita Raja) - Sotto i tigli | Christa Wolf (trad. Anita Raja) - Medea | Christa Wolf (trad. Anita Raja) - Medea | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Christa Wolf (trad. Anita Raja) - Medea
+
+Franz Kafka (trad. Anita Raja) - Il processo.txt | Christa Wolf (trad. Maria Teresa Mandalari) | Christa Wolf (trad. Anita Raja) - Che Cosa Resta | Franz Kafka (trad. Clara Morena) | Franz Kafka (trad. Clara Morena) | Christa Wolf (trad. Anita Raja) - Che Cosa Resta
+
+Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Domenico Starnone - Autobiografia erotica di Aristide Gambia | Christa Wolf (trad. Anita Raja) - Sotto i tigli | Christa Wolf (trad. Anita Raja) - Sotto i tigli | Christa Wolf (trad. Anita Raja) - Sotto i tigli | Domenico Starnone - Prima Esecuzione
+
+Christa Wolf (trad. Anita Raja) - Medea | Christa Wolf (trad. Anita Raja) - Cassandra | Christa Wolf (trad. Anita Raja) - Cassandra | Christa Wolf (trad. Anita Raja) - Cassandra  | Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | Christa Wolf (trad. Anita Raja) - Sotto i tigli
+
+
+Christa Wolf (trad. Anita Raja) - Cassandra                    | AR  | AR | AR | AR | LM
+Christa Wolf (trad. Anita Raja) - Che Cosa Resta               | DS  | AR | AR | AR | DS
+Christa Wolf (trad. Anita Raja) - Sotto i tigli                | AR  | AR | AR | AR | AR
+Franz Kafka (trad. Anita Raja) - Il processo.txt               | MTM | AR | CM | CM | AR
+Christa Wolf (trad. Anita Raja) - Un Giorno All'anno 1960-2000 | DS  | AR | AR | AR | DS
+Christa Wolf (trad. Anita Raja) - Medea                        | AR  | AR | AR | AR | AR
+

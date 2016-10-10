@@ -1,0 +1,28 @@
+Christa Wolf (trad. Anita Raja),/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt,Christa Wolf - Che Cosa Resta (Eo - 2009).txt
+Domenico Starnone,/mnt/red/storage/stylometry/Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt,Domenico Starnone - Autobiografia erotica di Aristide Gambia.txt
+Lucio Mastronardi,/mnt/red/storage/stylometry/Il maestro di Vigevano - Lucio Mastronardi.txt,Il maestro di Vigevano - Lucio Mastronardi.txt
+Franz Kafka (trad. Clara Morena),/mnt/red/storage/stylometry/Franz Kafka (trad. Clara Morena) - Il processo.txt,Franz Kafka (trad. Clara Morena) - Il processo.txt
+Franz Kafka (trad. Anita Raja),/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt,Franz Kafka (trad. Anita Raja) - Il processo.txt
+Domenico Starnone,/mnt/red/storage/stylometry/Domenico Starnone - Lacci (2014).txt,Domenico Starnone - Lacci (2014).txt
+Domenico Starnone,/mnt/red/storage/stylometry/Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt,Starnone Domenico - Via Gemito - 55° Premio Strega 2001 (Feltrinelli).txt
+Domenico Starnone,/mnt/red/storage/stylometry/Fuori registro - Domenico Starnone.txt,Fuori registro - Domenico Starnone.txt
+Domenico Starnone,/mnt/red/storage/stylometry/Starnone Domenico - Denti.txt,Starnone Domenico - Denti.txt
+Domenico Starnone,/mnt/red/storage/stylometry/Starnone Domenico - Ex cattedra.txt,Starnone Domenico - Ex cattedra.txt
+Domenico Starnone,/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt,Domenico Starnone - Condom (Einaudi Quanti - 2013).txt
+Christa Wolf (trad. Anita Raja),/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt,Cassandra - Christa Wolf.txt
+Domenico Starnone,/mnt/red/storage/stylometry/Starnone Dmenico - (2007) Prima Esecuzione.txt,Starnone Dmenico - (2007) Prima Esecuzione.txt
+Christa Wolf (trad. Maria Teresa Mandalari),/mnt/red/storage/stylometry/Christa Wolf - Il cielo diviso.txt,Christa Wolf - Il cielo diviso.txt
+Christa Wolf (trad. Maria Grazia Cocconi e Jan-Michael Sobottka),/mnt/red/storage/stylometry/Christa Wolf - Nessun luogo Da nessuna parte.txt,Christa Wolf - Nessun luogo Da nessuna parte.txt
+Christa Wolf (trad. Anita Raja),/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt,Christa Wolf. Sotto i tigli.txt
+Christa Wolf (trad. Anita Raja),"/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt","Wolf, Christa - Medea (ITA).txt"
+Christa Wolf (trad. Anita Raja),/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt,Wolf Christa - Un Giorno All'anno 1960-2000.txt
+Domenico Starnone,/mnt/red/storage/stylometry/Domenico Starnone - Condom (Einaudi Quanti - 2013).txt,Domenico Starnone - Condom (Einaudi Quanti - 2013).txt
+Domenico Starnone,/mnt/red/storage/stylometry/Starnone Domenico - (1993) Eccesso di zelo.txt,Starnone Domenico - (1993) Eccesso di zelo.txt
+Antonio Pennacchi,/mnt/red/storage/stylometry/Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt,Antonio Pennacchi - Canale Mussolini (mondadori - 2010) [Ita Libro].txt
+Domenico Starnone,/mnt/red/storage/stylometry/Domenico Starnone - Labilita.txt,Domenico Starnone - Labilita.txt
+,/mnt/red/storage/stylometry/Cassandra - Christa Wolf.txt,Cassandra - Christa Wolf.txt
+,/mnt/red/storage/stylometry/Christa Wolf - Che Cosa Resta (Eo - 2009).txt,Christa Wolf - Che Cosa Resta (Eo - 2009).txt
+,/mnt/red/storage/stylometry/Christa Wolf. Sotto i tigli.txt,Christa Wolf. Sotto i tigli.txt
+,/mnt/red/storage/stylometry/Franz Kafka (trad. Anita Raja) - Il processo.txt,Franz Kafka (trad. Anita Raja) - Il processo.txt
+,/mnt/red/storage/stylometry/Wolf Christa - Un Giorno All'anno 1960-2000.txt,Wolf Christa - Un Giorno All'anno 1960-2000.txt
+,"/mnt/red/storage/stylometry/Wolf, Christa - Medea (ITA).txt","Wolf, Christa - Medea (ITA).txt"
