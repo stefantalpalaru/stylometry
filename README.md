@@ -1,3 +1,7 @@
+# article
+
+https://www.reddit.com/r/Libri/comments/56rl88/analisi_stilometrica_dei_libri_di_elena_ferrante/
+
 # Public Domain waiver
 
 To the extent possible under law, Ștefan Talpalaru has waived all copyright
